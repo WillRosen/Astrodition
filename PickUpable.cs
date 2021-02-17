@@ -8,7 +8,7 @@ using UnityEngine.UI;
 /*
  * PickUpable is a class for all items in the game that the player can
  * hold in their hands.
- * This handles all networking/saveing/loading
+ * This handles all networking/saving/loading
 */
 public class PickUpable : PhysicsItem
 {
